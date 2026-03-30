@@ -15,3 +15,6 @@ Product Placement:**
 3. Position mineral water prominently as it drives cross-category purchases
 
 **Promotional Bundling:** Bundle high-traffic products like mineral water and eggs with slower moving items like cereals and turkey to drive stock clearance
+
+
+**Dataset Link:** https://www.kaggle.com/datasets/rupakroy/market-basket-optimization
